@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+aiofiles
+python-multipart
+sqlite3  # built-in; not a pip package. Use `sqlite3` module in stdlib.
+openai
+python-dotenv
